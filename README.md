@@ -6,7 +6,7 @@ This Max Patch creates a fade-in and -out for samples in a buffer using JavaScri
 
 The controls are:<br/>
 **set fade length**<br/>
-**apply fade**n<br/>
+**apply fade**<br/>
 **play buffer**<br/>
 
 
